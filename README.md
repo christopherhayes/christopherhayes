@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @christopherhayes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, I'm Christopher Hayes.
 
-<!---
-christopherhayes/christopherhayes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I don't use github much (yet). 
 
-Hello, World... 
-
-<h2> Test </h2> 
+I am interested in numerical work related to PDEs on networks, some basic machine learning and data science, and AI in imperfect information games. 
